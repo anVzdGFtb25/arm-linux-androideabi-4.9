@@ -1,0 +1,7 @@
+Verified+1: Andrew Hsieh <andrewhsieh@google.com>
+Code-Review+2: Ying Wang <wangying@android.com>
+Submitted-by: Andrew Hsieh <andrewhsieh@google.com>
+Submitted-at: Thu, 09 Jul 2015 02:19:25 +0000
+Reviewed-on: https://android-review.googlesource.com/158400
+Project: platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9
+Branch: refs/heads/master

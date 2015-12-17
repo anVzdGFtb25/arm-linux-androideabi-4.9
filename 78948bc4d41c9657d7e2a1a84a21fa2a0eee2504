@@ -1,0 +1,7 @@
+Code-Review+2: Dan Albert <danalbert@google.com>
+Verified+1: Than McIntosh <thanm@google.com>
+Submitted-by: Than McIntosh <thanm@google.com>
+Submitted-at: Thu, 17 Dec 2015 20:25:10 +0000
+Reviewed-on: https://android-review.googlesource.com/188360
+Project: platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9
+Branch: refs/heads/master

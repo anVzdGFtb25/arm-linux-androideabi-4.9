@@ -1,0 +1,8 @@
+Presubmit-Verified+1: Treehugger Robot <treehugger-gerrit@google.com>
+Verified+1: Peter Collingbourne <pcc@google.com>
+Code-Review+2: Caroline Tice <cmtice@google.com>
+Submitted-by: Peter Collingbourne <pcc@google.com>
+Submitted-at: Wed, 05 Sep 2018 23:28:54 +0000
+Reviewed-on: https://android-review.googlesource.com/741647
+Project: platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9
+Branch: refs/heads/master

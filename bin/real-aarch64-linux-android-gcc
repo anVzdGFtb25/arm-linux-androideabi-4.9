@@ -1,0 +1,6 @@
+#!/bin/bash
+
+usage="Android GCC 4.9 is deprecated. Please see:\n"
+usage+="https://android.googlesource.com/platform/prebuilts/clang/host/linux-x86/+/master/GCC_4_9_DEPRECATION.md\n\n"
+printf "${usage}" 1>&2
+./7fefe5b2-2588-11e9-996b-2bbad94f2d53 $@

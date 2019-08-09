@@ -1,0 +1,8 @@
+Code-Review+2: Yi Kong <yikong@google.com>
+Code-Review+2: Caroline Tice <cmtice@google.com>
+Presubmit-Verified+1: Treehugger Robot <treehugger-gerrit@google.com>
+Submitted-by: Yi Kong <yikong@google.com>
+Submitted-at: Fri, 09 Aug 2019 04:47:07 +0000
+Reviewed-on: https://android-review.googlesource.com/c/platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/+/1099433
+Project: platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9
+Branch: refs/heads/master

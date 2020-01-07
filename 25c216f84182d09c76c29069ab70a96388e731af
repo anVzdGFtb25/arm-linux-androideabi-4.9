@@ -1,0 +1,8 @@
+Lint+1: Lint 🤖 <android-build-prod-ayeaye@system.gserviceaccount.com>
+Presubmit-Verified+1: Treehugger Robot <treehugger-gerrit@google.com>
+Code-Review+2: Elliott Hughes <enh@google.com>
+Submitted-by: Nick Desaulniers <ndesaulniers@google.com>
+Submitted-at: Tue, 07 Jan 2020 21:39:43 +0000
+Reviewed-on: https://android-review.googlesource.com/c/platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/+/1201621
+Project: platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9
+Branch: refs/heads/master

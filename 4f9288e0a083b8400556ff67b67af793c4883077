@@ -1,0 +1,9 @@
+Presubmit-Verified+1: Treehugger Robot <treehugger-gerrit@google.com>
+Lint+1: Lint 🤖 <android-build-prod-ayeaye@system.gserviceaccount.com>
+Code-Review+2: Elliott Hughes <enh@google.com>
+Build-Cop-Override+1: Eddie Lan <eddielan@google.com>
+Submitted-by: Eddie Lan <eddielan@google.com>
+Submitted-at: Wed, 08 Jan 2020 02:13:13 +0000
+Reviewed-on: https://android-review.googlesource.com/c/platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/+/1202963
+Project: platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9
+Branch: refs/heads/master

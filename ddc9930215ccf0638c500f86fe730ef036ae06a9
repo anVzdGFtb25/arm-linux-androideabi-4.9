@@ -16,6 +16,23 @@
       "message": "Heads up to other folks that might be using these outside of the Android platform. Folks should -2 this if they need to pin their manifests first.",
       "revId": "ddc9930215ccf0638c500f86fe730ef036ae06a9",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "10d81f47_674f96c9",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1096713
+      },
+      "writtenOn": "2021-11-05T22:20:27Z",
+      "side": 1,
+      "message": "I\u0027ve moved all my hacky references to sc-release, so this CL on master is fine by me.  Thanks for the heads up!",
+      "revId": "ddc9930215ccf0638c500f86fe730ef036ae06a9",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ]
 }
